@@ -4,7 +4,9 @@ created by Kaleb Guo
 
 ## Video captures folder Doc purpose:
 
-In this project, we have a list of video trials from You-jin and Radha’s Augmented reality experiments.  In order to maintain a well-organized experiment datasets. We need to achieve the following things.
+In this project, we have a list of video trials from You-jin and Radha’s Augmented reality experiments.  In order to maintain a well-organized experiment datasets,I create this document to track the current process.
+
+In general, we need to achieve the following things.
 
 - [x]  Convert all the files from H264 to mp4 for easy use.
 - [ ]  Inspect each videos folder to correctly label each videos(store in Translate)
