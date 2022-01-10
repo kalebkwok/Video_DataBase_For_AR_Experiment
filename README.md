@@ -4,9 +4,10 @@ created by Kaleb Guo
 
 ## Video captures folder Doc purpose:
 
-In this project, we have a list of video trials from You-jin and Radha’s Augmented reality experiments.  In order to maintain a well-organized experiment datasets,I create this document to track the current process.
+We have a list of video trials from You-jin and Radha's Augmented reality experiments in this project. I created this document to track the current process in order to maintain a well-organized experiment dataset.
 
-In general, we need to achieve the following things.
+
+In general, we need to accomplish the following.
 
 - [x]  Convert all the files from H264 to mp4 for easy use.
 - [ ]  Inspect each videos folder to correctly label each videos(store in Translate)
@@ -25,10 +26,11 @@ In general, we need to achieve the following things.
 
 ## Maintenance Approach：
 
-This project will store in 3 folders, and one Excel sheet to main. (Ps. later to posted in Google Drive)The linked will be provided in the flowing context.
+
+This project will be organized into three folders, with one Excel sheet serving as a supplementary document.(Note: this will be posted in Google Drive later.) 
 
 Link: [https://drive.google.com/drive/folders/1cUOSANnwRxO-NscF74iSlX-hQBzlsaEd](https://drive.google.com/drive/folders/1cUOSANnwRxO-NscF74iSlX-hQBzlsaEd)
 
-1. Translate : this folder will contain all the correctly label videos from the zip file. The purpose of this folder is easy for other people to inspect the original video source files. NOTE: this folders contains unclear trials and broken videos. 
-2. Good Source: this folder will contain complete experiments trials as a single video files. Note: The Excel form will be used to keep track of the timestamp need to sperate each experiment for files this folder.
-3. Labeled trials: final product. It should contain individual trials for each experiment, separate by the Click Board.
+1. Translate: This folder will contain all of the videos from the zip file that have been properly labeled. The goal of this folder is to make it simple for others to inspect the original video source files.  NOTE: This folder contains illegible trials and broken videos.
+2. Excellent Source: This folder will contain complete experiment trials as a single video file.NOTE: the Excel form will be used to keep track of the timestamps required to sperate each experiment for files in this folder.
+3. Trials with labels: final product Individual trials for each experiment should be separated by the Click Board.
