@@ -10,19 +10,19 @@ We have a list of video trials from You-jin and Radha's Augmented reality experi
 In general, we need to accomplish the following.
 
 - [x]  Convert all the files from H264 to mp4 for easy use.
-- [ ]  Inspect each videos folder to correctly label each videos(store in Translate)
+- [x]  Inspect each videos folder to correctly label each videos(store in Translate)
     - [x]  Folders:10-20- Finished
     - [x]  Folders:20-30- Finished
     - [x]  Folders:30-40- Finished
-    - [ ]  Folders:40-50- In progress; missing sj41-44
-    - [ ]  Folders:50-60 -Not stated
-- [ ]  Translate each correctly label videos to Individual video trials
-    - [ ]  Folders:10-20- In progress missing sj 13-sj18
-    - [ ]  Folders:20-30- In progress
-    - [ ]  Folders:30-40- In progress
-    - [ ]  Folders:40-50- In progress; missing sj41-44
-    - [ ]  Folders:50-60 -Not stated
-- [ ]  Create a easy approach for other
+    - [x]  Folders:40-50- Finished
+    - [x]  Folders:50-60 -Finished
+- [x]  Translate each correctly label videos to Individual video trials
+    - [x]  Folders:10-20- Finished
+    - [x]  Folders:20-30- Finished
+    - [x]  Folders:30-40- Finished
+    - [x]  Folders:40-50- Finished
+    - [x]  Folders:50-60 Finished
+- [x]  Create a easy approach for other
 
 ## Maintenance Approach：
 
